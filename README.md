@@ -14,9 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ##Skills
-
-#Front
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+#Front [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
 #Back
 [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
 #DevOps/CI/CD

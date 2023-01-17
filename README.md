@@ -13,4 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=3)](https://skillicons.dev)
+##Skills
+
+#Front
+[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+#Back
+[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+#DevOps/CI/CD
+[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+#Monitoring
+[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)

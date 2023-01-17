@@ -15,9 +15,26 @@ Here are some ideas to get you started:
 
 ##Skills
 
-#Front  #Back  #DevOps/CI/CD  #Monitoring
+#Front
 
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)    
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts)](https://skillicons.dev)
+
+#Back
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,scala,go)](https://skillicons.dev)
+
+#DevOps/CI/CD
+
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,,jenkins)](https://skillicons.dev)
+
+#Monitoring
+
+[![My Skills](https://skillicons.dev/icons?i=grafana,prometheus)](https://skillicons.dev)
+
+#ORM/DB
+
+[![My Skills](https://skillicons.dev/icons?i=hibernate,postgres,mongo)](https://skillicons.dev)
+
+#OS/Scripting
+
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,py)](https://skillicons.dev)

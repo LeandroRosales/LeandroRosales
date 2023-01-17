@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **LeandroRosales/LeandroRosales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,6 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=3)](https://skillicons.dev)

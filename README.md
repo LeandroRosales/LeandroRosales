@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 #DevOps/CI/CD
 
-[![My Skills](https://skillicons.dev/icons?i=azure,docker,,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,docker,jenkins)](https://skillicons.dev)
 
 #Monitoring
 

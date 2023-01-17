@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 #Front  #Back  #DevOps/CI/CD  #Monitoring
 
 [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)    
 [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=angular,java,azure,docker,go,grafana,hibernate,jenkins,linux,maven,postgres,prometheus,py,bash,redis,spring,scala,ts,vue,idea&perline=1)](https://skillicons.dev)
